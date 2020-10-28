@@ -9,6 +9,6 @@ id: 1001
 
 <strong>Author : Tanisha Arora</strong>
 
-<object data="/assets/uploads/pdfs/1001.pdf" width="1000" height="1000" type='application/pdf' /></object>
+<object data="/assets/uploads/pdfs/1001.pdf" width="1000" height="1000" type='application/pdf' />
 
 Thank you!
