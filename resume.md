@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "   Problems in Informal Sector"
+title:  "Resume"
 subtitle: "~"
 date:   2020-09-21 21:21:30 +0530
 categories: ["general"]
