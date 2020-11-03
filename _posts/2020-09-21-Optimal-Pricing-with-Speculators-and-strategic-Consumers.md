@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "   Problems in Informal Sector"
+title:  "Optimal Pricing with speculators and strategic Consumers"
 subtitle: "~"
 date:   2020-09-21 20:21:30 +0530
 categories: ["general"]
